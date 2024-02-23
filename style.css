@@ -1,0 +1,22 @@
+.container{
+  margin-bottom: 100px;
+  max-width: 1125px;
+}
+.caros-bg{
+  background-color: #FEEAE9;
+  border-radius: 10px;
+}
+.row{
+  padding: 20px 40px;
+}
+.Buy-now-btn{
+  background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+  border: none;
+  color: #fff;
+  padding: 9px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.price{
+  color: #ff136f;
+}
